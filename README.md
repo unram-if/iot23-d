@@ -2,4 +2,4 @@
 
 ## Tugas
 
-1. Week 9
+1. [Week 9](week9/README.md)
