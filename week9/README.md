@@ -5,10 +5,11 @@ Konfigurasi server sebagai sebagai MQTT broker dengan kriteria sebagai berikut:
 ## Server
 
 ```
-IP      : 10.100.10.10 (private - jaringan @unram.ac.id)
-OS      : Ubuntu 20.04
-User    : *diinfo di kelas
-Pass    : *diinfo di kelas
+IP          : 10.100.10.10 (private - jaringan @unram.ac.id)
+OS          : Ubuntu 20.04
+User        : *diinfo di kelas
+Pass        : *diinfo di kelas
+Pass (root) : *diinfo di kelas
 ```
 
 ## Software
