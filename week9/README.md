@@ -34,3 +34,6 @@ Masing-masing mahasiswa meng-capture hasil dari command yang dijalankan dan disi
 Progress tugas dikirimkan melalui repo yang sama dengan melakukan `pull request` bagi masing-masing mahasiswa. Bagi yang sudah melakukan `pull request` dapat menginformasikan ke grup telegram.  
 
 Nilai akan diberikan berdasarkan mahasiswa yang melakukan `pull request` dan NIM nya ada dalam salah satu kelompok yang telah ditentukan diatas.
+
+## Referensi
+- [Internet of Thinks: Messaging Protocols](https://drive.google.com/file/d/1BXPmxnkfyIM6dMNF-0JPiaTeRAjtroAT/view?usp=sharing)
