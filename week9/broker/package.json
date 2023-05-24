@@ -1,0 +1,10 @@
+{
+  "name": "broker",
+  "version": "1.0.0",
+  "description": "Kelompok Broker",
+  "scripts": {
+    "push": "git push origin HEAD:main"
+  },
+  "author": "",
+  "license": "ISC"
+}
